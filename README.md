@@ -1,3 +1,6 @@
+*This coures from Jeremy's IT Lab*
+https://youtube.com/playlist?list=PLxbwE86jKRgMpuZuLBivzlM8s2Dk5lXBQ&si=1y_aJg-gohBTMovE
+
 # This days i finsh
 
 
