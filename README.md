@@ -11,8 +11,8 @@ https://youtube.com/playlist?list=PLxbwE86jKRgMpuZuLBivzlM8s2Dk5lXBQ&si=1y_aJg-g
 - [x] day4 - Basic Device Security
 - [x] day5 - Ethernet LAN Switching [p1]
 - [x] day6 - Ethernet LAN Switching [p2]
-- [x] day7 - IPv4 Addresses
-- [ ] day8
+- [x] day7 - IPv4 Addresses [p1]
+- [x] day8 - IPv4 Addresses [p2]
 - [ ] day9
 - [ ] day10
 - [ ] day11
